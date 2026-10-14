@@ -3,7 +3,7 @@ on:
  push:
 jobs:
  hello:
- runs-on: ubuntu-latest
- steps:
- - name: Display Message
- run: echo "My first CI workflow is running!"
+   runs-on: ubuntu-latest
+   steps:
+   - name: Display Message
+     run: echo "My first CI workflow is running!"
