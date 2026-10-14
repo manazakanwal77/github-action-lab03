@@ -6,4 +6,4 @@ jobs:
    runs-on: ubuntu-latest
    steps:
    - name: Display Message
-     run: echo "My first CI workflow is running!"
+     run: echo "My name is manaza kanwal"
